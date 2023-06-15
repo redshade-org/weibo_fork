@@ -7,3 +7,5 @@
 $ composer install
 $ npm run dev
 ```
+
+#### 注意事项
